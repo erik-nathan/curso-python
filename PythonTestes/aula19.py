@@ -19,6 +19,8 @@
 # brasil.append(estado2)
 # print(brasil)
 
+
+
 estado = dict()
 brasil = list()
 for c in range(0, 2):
